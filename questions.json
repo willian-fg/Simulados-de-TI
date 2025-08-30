@@ -328,5 +328,97 @@
     "options": ["su", "sudo", "login", "switch"],
     "answer": 0
   }
+],
+"Conceitos de Rede": [
+  {
+    "question": "Qual é a principal função de uma rede de computadores?",
+    "options": [
+      "Compartilhar recursos e informações",
+      "Aumentar o consumo de energia",
+      "Reduzir a velocidade dos computadores",
+      "Evitar conexões entre dispositivos"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "O que significa a sigla IP?",
+    "options": [
+      "Internet Protocol",
+      "Internal Program",
+      "Information Process",
+      "Integrated Package"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a função do endereço IP?",
+    "options": [
+      "Identificar dispositivos em uma rede",
+      "Armazenar arquivos do usuário",
+      "Gerar senhas de acesso",
+      "Controlar permissões de pastas"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a função do protocolo TCP?",
+    "options": [
+      "Garantir a entrega confiável dos dados",
+      "Armazenar configurações do sistema",
+      "Gerenciar permissões de arquivos",
+      "Listar os diretórios do sistema"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a diferença entre rede LAN e WAN?",
+    "options": [
+      "LAN é local e WAN é de longa distância",
+      "LAN é sem fio e WAN é cabeada",
+      "LAN só funciona com internet e WAN não",
+      "Não existe diferença, são a mesma coisa"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "O que significa DNS?",
+    "options": [
+      "Domain Name System",
+      "Data Network Service",
+      "Device Number Source",
+      "Direct Node Setup"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qual é a função do DNS?",
+    "options": [
+      "Traduzir nomes de domínio em endereços IP",
+      "Conceder permissões a usuários",
+      "Armazenar arquivos de configuração",
+      "Exibir pastas ocultas"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qual protocolo é usado para navegação na web?",
+    "options": ["HTTP/HTTPS", "FTP", "SSH", "SMTP"],
+    "answer": 0
+  },
+  {
+    "question": "Qual protocolo é usado para envio de e-mails?",
+    "options": ["SMTP", "FTP", "HTTP", "SSH"],
+    "answer": 0
+  },
+  {
+    "question": "O que é máscara de sub-rede?",
+    "options": [
+      "Define quais partes do IP pertencem à rede e ao host",
+      "Um protocolo de segurança",
+      "Um método de criptografia de dados",
+      "Um endereço exclusivo de dispositivo"
+    ],
+    "answer": 0
+  }
 ]
 }
